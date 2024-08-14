@@ -1,0 +1,17 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+/* Layout Styles */
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
