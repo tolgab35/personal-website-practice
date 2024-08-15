@@ -41,7 +41,10 @@ img {
   position: fixed;
   top: 0;
   left: 0;
-  box-shadow: rgba(0, 0, 0, 0.164) 0px -50px 36px -28px inset;
+  background-color: #e9e9cf31;
+  /* box-shadow: rgba(0, 0, 0, 0.164) 0px -50px 36px -28px inset; */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
 }
 .header-navbar ul {
   list-style: none;
@@ -53,13 +56,13 @@ img {
   padding: 25px 40px;
   text-decoration: none;
   font-size: 20px;
+  color: #e9e9cfe8;
   transition: all 0.2s ease-in-out;
 }
-.header-navbar ul a.active {
-  color: #e9e9cf;
-}
 .header-navbar ul a:hover {
-  color: #e9e9cf;
+  color: #ffffff;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .header-title {
   margin-top: 25%;
