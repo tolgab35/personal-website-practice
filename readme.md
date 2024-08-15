@@ -17,7 +17,9 @@
 - E9E9CF
 - E2E2B6
 
----
+## Pink
+
+- DDAADD
 
 # Fonts
 
